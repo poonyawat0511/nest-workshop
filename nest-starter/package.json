@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "*",
+    "@nestjs/mongoose": "^10.0.6",
+    "mongoose": "^8.4.0",
+    "vue-google-api": "^0.2.0"
+  }
+}
